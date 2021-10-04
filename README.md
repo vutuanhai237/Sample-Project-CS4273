@@ -7,7 +7,7 @@ Participants:
 - Member: Đoàn Đông Nam - 19521867
 
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) https://trello.com/b/RTHrYHPo/passbook-managment
+Task management table: [here](https://trello.com/b/N0dTGGkV) (https://trello.com/b/RTHrYHPo/passbook-managment)
 
 UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
 
