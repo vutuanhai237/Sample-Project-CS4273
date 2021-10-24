@@ -1,7 +1,6 @@
-# Document for CS4273 classes
+#  CS4273 PROJECT
 
 Participants:
-
 - Leader: Đỗ Cao Tiến - 19522333
 - Member: Khương Viết Tài - 19522151
 - Member: Đoàn Đông Nam - 19521867
