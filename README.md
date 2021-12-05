@@ -9,7 +9,6 @@ Participants:
 Task management table: [here](https://trello.com/b/N0dTGGkV) (https://trello.com/b/RTHrYHPo/passbook-managment)
 
 UI / UX prototype: [here](https://www.figma.com/file/CamMGw63Qo3mWYTmE2Pvg9/Untitled?node-id=0%3A1)
-sad
 
 Tech stacks:
 
