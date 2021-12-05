@@ -8,14 +8,13 @@ Participants:
 
 Task management table: https://trello.com/b/RTHrYHPo/passbook-managment
 
-UI / UX prototype: [here](https://www.figma.com/file/CamMGw63Qo3mWYTmE2Pvg9/Untitled?node-id=0%3A1)
+UI / UX prototype: https://www.figma.com/file/WKJF4wwzlOBU47MWy0xUkJ/Untitled
 
 Tech stacks:
 
 - Front-end: Vuejs
 - Back-end: NodeJS
 - Database: Mongodb
-- ...
 
 Demo online: [link to website - update later]
 <p align="center" width="100%">
