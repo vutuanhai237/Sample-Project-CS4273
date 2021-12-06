@@ -10,7 +10,7 @@ Task management table: https://trello.com/b/RTHrYHPo/passbook-managment
 
 UI / UX prototype: Release - https://www.figma.com/file/WKJF4wwzlOBU47MWy0xUkJ/Untitled
                   
-                  Plan - https://www.figma.com/file/gxP8cfW5MvdIrOGnztbMRS/Untitled?node-id=0%3A1
+ Plan - https://www.figma.com/file/gxP8cfW5MvdIrOGnztbMRS/Untitled?node-id=0%3A1
 
 Tech stacks:
 
