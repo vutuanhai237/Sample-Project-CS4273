@@ -1,15 +1,14 @@
-# Document for CS4273 classes
+# Sample for CS4273 class - final project
 
-Participants:
+Participants: Group 3
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: [Trần Trọng Sang - 20521834]
+- Member: [Lê Minh Thông - 2052xxxxx]
+- Member: [Phạm Thùy Dung - 2052xxxx]
+- Member: [Võ Anh Hào - 2052xxxx]
 
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
-
-UI / UX prototype: [here](https://www.figma.com/file/HPItpL9Ea8kNQIzWbNyQCk/Untitled?node-id=0%3A1) [Replace by your public prototype later]
+Trello / Jira table: https://trello.com/w/g3cs4273
 
 Tech stacks:
 
@@ -19,19 +18,3 @@ Tech stacks:
 - ...
 
 Demo online: [link to website - update later]
-
-*[Delete below text when you forked]*
-
-## 1. What do you need to know?
-
-This repository is the sample. For saving time, you can fork it and develop your repository independently.
-
-## 2. About the structure
-
-- Folder Code: contain whole codes, include FE - BE - Database, ...
-
-- Folder Diagram: hold your .png files, those are diagrams that you need to submit quickly.
-
-- Folder Report: summary stuffs in a pdf file when you have done all things.
-
-- Folder References: contains all materials for weekly homework and final report.
